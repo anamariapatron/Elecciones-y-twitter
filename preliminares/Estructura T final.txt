@@ -1,0 +1,26 @@
+Hola todos: 
+
+Estaba en mora de aclara un poco mas esto. 
+
+Un buen articulo en minería de datos debe tener un estructura como esta:
+
+Introducción:  el problema y su relevancia, revisión de la literatura y contribución especifica del artículo en el contexto de esta literatura.
+Descripción de los datos.
+El modelo (si lo hay pero no es necesario) y ojala algún resultado teórico.
+El algoritmo utilizado (o los algoritmos).
+Aplicación a por lo menos dos cosas: (1) Datos sintéticos y (2) Una base de datos del mundo real.
+Conclusiones
+Un excelente ejemplo es: Uplift Modeling with Multiple Treatments and General Response Types
+
+El estándar de edición de las publicaciones académicas es Latex. Para instalar este sistema de edición recomiendo:
+
+Descargar Latex de https://www.latex-project.org/
+Descargar un editor de Latex. Texstudi es bueno: https://www.texstudio.org/
+Este template puede ser bueno para comenzar a modificar: KDD Template Example
+Ahora si:
+
+La propuesta de trabajo debe ser entregada hasta el sabado 8 de mayo. Una propuesta debe incluir: el problema, la relevancia, la literatura relacionada, los datos que va a usar (simplemente decir que datos tienen o van a conseguir), un analisis de vianbilidad del proyecto (con esos datos puede responder mi pregunta?) y si es posible una estadisticas descriptivas de los datos. Por ultimo mencionar que tecnicas piensan usar para resolver el problema. Una propuesta no debe ser de mas de dos paginas excluyendo estadisticas descriptivas. Lo mas importante es tene una BUENA pregunta y los datos para responderla. Las propuesta pueden ser enviadas en word, PDF, latex, etc. NO enviar una presentacion, enviar un documento corto pero bien estructurado.
+
+Para el proyecto final la idea es desarrollar esa propuesta a no ser que no haya sido aceptada por nosotros. Los trabajos finales son de maximo 6 paginas. La fecha de entrega es una semana antes del limite para entregar las notas finales.
+
+AR

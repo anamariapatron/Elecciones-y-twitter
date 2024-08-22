@@ -1,5 +1,0 @@
-pre-analysis:
-archivo para estudiar la base y seleccionar la muestra final.
-
-cleaning-lda:
-limpieza y modelo
